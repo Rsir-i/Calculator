@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_0" type="id" />
+    <item name="btn_1" type="id" />
+    <item name="btn_2" type="id" />
+    <item name="btn_3" type="id" />
+    <item name="btn_4" type="id" />
+    <item name="btn_5" type="id" />
+    <item name="btn_6" type="id" />
+    <item name="btn_7" type="id" />
+    <item name="btn_8" type="id" />
+    <item name="btn_9" type="id" />
+    <item name="btn_clear" type="id" />
+    <item name="btn_percent" type="id" />
+    <item name="btn_del" type="id" />
+    <item name="btn_leftbra" type="id" />
+    <item name="btn_rightbra" type="id" />
+    <item name="btn_PandM" type="id" />
+    <item name="btn_squ2" type="id" />
+    <item name="btn_sin" type="id" />
+    <item name="btn_cos" type="id" />
+    <item name="btn_div" type="id" />
+    <item name="btn_mul" type="id" />
+    <item name="btn_sub" type="id" />
+    <item name="btn_add" type="id" />
+    <item name="btn_equ" type="id" />
+    <item name="btn_p" type="id" />
+</resources>
